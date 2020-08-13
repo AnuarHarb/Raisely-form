@@ -3,6 +3,11 @@ html {
   font-family: "calibre";
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 @media (max-width: 992px) {
   html {
     font-size: 16px;
